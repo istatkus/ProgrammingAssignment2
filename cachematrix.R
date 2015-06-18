@@ -1,5 +1,5 @@
 ## Coursera Assignment 2: Cache Inverse of Matrix
-## To confirm my result went to Khan Academy and watched the atrix video
+## To confirm my result went to Khan Academy and watched the Matrix video
 ## the inverse is 1/determinate(x) * Adjugate(x)
 ## In R solve(x) seems to perform this function
 ## Used their 2 by 2 as my test case
